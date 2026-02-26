@@ -1,3 +1,3 @@
 <template>
-  <h1>Hello world</h1>
+  <h1>Hello world from worktree</h1>
 </template>
